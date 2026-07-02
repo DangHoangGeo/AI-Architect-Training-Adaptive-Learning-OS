@@ -44,6 +44,10 @@
 - `enterprise-systems-examples/10-supply-chain-logistics-tracking/architecture_decisions.md`
 - `enterprise-systems-examples/10-supply-chain-logistics-tracking/design.md`
 - `enterprise-systems-examples/10-supply-chain-logistics-tracking/pm_brief.md`
+- `enterprise-systems-examples/11-enterprise-ai-agent-platform/README.md`
+- `enterprise-systems-examples/11-enterprise-ai-agent-platform/architecture_decisions.md`
+- `enterprise-systems-examples/11-enterprise-ai-agent-platform/design.md`
+- `enterprise-systems-examples/11-enterprise-ai-agent-platform/pm_brief.md`
 - `enterprise-systems-examples/README.md`
 - `memory/achievements.md`
 - `memory/cost_estimates.md`
