@@ -44,7 +44,7 @@ The system is intentionally not random. The AI coach must use the roadmap, curre
 - `training/` — 60 daily lessons, five per week.
 - `tests/` — 12 weekly tests and scoring rubrics.
 - `workshops/` — 12 final hands-on projects with architecture and Bicep starters.
-- `enterprise-systems-examples/` — 11 worked case studies of real-world enterprise-grade systems (banking ledger, e-commerce, airline reservations, EHR, ERP integration, payments, multi-tenant SaaS, fraud detection, streaming, logistics, AI agent platform), each with a business scenario, PM brief, full design, and ADRs.
+- `enterprise-systems-examples/` — 12 worked case studies of real-world enterprise-grade systems (banking ledger, e-commerce, airline reservations, EHR, ERP integration, payments, multi-tenant SaaS, fraud detection, streaming, logistics, brokered AI agent platform, autonomous agent sandbox platform), each with a business scenario, PM brief, full design, and ADRs.
 - `templates/` — reusable thinking, design, PM, ADR, threat-model, and review templates.
 - `portfolio/` — collected polished outputs for interview or career proof.
 - `scripts/` — optional local helper scripts for creating session logs and weekly summaries.
